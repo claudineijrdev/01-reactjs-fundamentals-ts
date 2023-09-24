@@ -15,3 +15,4 @@ npm install
 ``` 
 npm run dev 
 ```
+<img src="/blog.png">
